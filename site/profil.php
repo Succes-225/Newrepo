@@ -12,7 +12,7 @@ else{
     
         <div class="info_container">
             <div class="title">
-                <h3>BIENVENUE <?= $donne['pseudo'];?></h3>
+                <h3>BIENVENUE <?= $donne['pseudo'] sur ton profil;?></h3>
             </div>
             <div class="generalInfo">
                 
